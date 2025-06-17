@@ -1,0 +1,42 @@
+[
+    {
+        "product_id": 1,
+        "category_id": 101
+    },
+    {
+        "product_id": 1,
+        "category_id": 107
+    },
+    {
+        "product_id": 2,
+        "category_id": 101
+    },
+    {
+        "product_id": 2,
+        "category_id": 106
+    },
+    {
+        "product_id": 3,
+        "category_id": 101
+    },
+    {
+        "product_id": 3,
+        "category_id": 103
+    },
+    {
+        "product_id": 4,
+        "category_id": 102
+    },
+    {
+        "product_id": 4,
+        "category_id": 104
+    },
+    {
+        "product_id": 5,
+        "category_id": 101
+    },
+    {
+        "product_id": 5,
+        "category_id": 105
+    }
+]
